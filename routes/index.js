@@ -22,6 +22,16 @@ const bios = {
 	    quote: 'Governo das pessoas, pelas pessoas, para as pessoas, nunca deixará de existir na Terra.',
 	    highlights: ['Aprovou a Lei da Propriedade Rural', 'Emitiu a Proclamação de Emancipação, que levou à abolição da escravatura nos EUA', 'Liderou a União à vitória da Guerra Civil'],
 	},
+	gatilson: {
+		name: 'Gatilson de Souza',
+	    role: 'Ser fofíneo, companheiríneo',
+	    birth: '2015',
+	    death: 'vivo',
+	    photo: '/images/gatilson.png',
+	    background: 'Responsável por subir nos móveis, derrubar objetos de decoração e ignorar seus donos como se fosse a última bolacha do pacote.',
+	    quote: 'Gatos amam mais as pessoas do que elas permitiriam. Mas eles têm sabedoria suficiente para manter isso em segredo.',
+	    highlights: ['Os gatos têm cerca de 100 sons vocais ao contrário dos cães que apresentam apenas 10', 'Um gato pode ficar vários dias sem comer, caso o alimento não lhe agrada, e pode até morrer de fome.', 'Os felinos podem chegar a dormir até 16 horas por dia, divididas em vários períodos. Isto quer dizer que um gato de 7 anos só esteve realmente acordado durante dois anos.', 'O gato tem 245 ossos, enquanto que o homem tem 206 no total.', 'Quando o gato está assustado, seu pelo se eriça por todo o corpo. Quando ele vai atacar, o pelo se eriça apenas numa estreita faixa dorsal.', 'O gato pode alcançar uma velocidade de até 50 km/h.', 'Os gatos esfregam o rosto em objetos e pessoas para marcá-los com seu cheiro. O cheiro é produzido por glândulas localizadas na parte anterior do rosto.'],
+	},
 };
 
 /* GET home page. */
